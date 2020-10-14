@@ -24,11 +24,11 @@ module.exports = {
     globalNav,
     pages: [
       {
-        title: "Adobe Creative Cloud",
-        path: "/creative-cloud/",
+        title: "Adobe XD",
+        path: "/",
       },
     ],
   },
   plugins: [`@adobe/gatsby-theme-parliament`],
-  pathPrefix: process.env.PATH_PREFIX || "/gatsby-theme-parliament-platform",
+  pathPrefix: process.env.PATH_PREFIX || "/xd",
 };

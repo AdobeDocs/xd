@@ -1,142 +1,108 @@
 ---
-title: Creative Cloud Developer Platform
-description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and more. Integrate service APIs like Creative Cloud Libraries, Adobe Fonts and Adobe Stock.
+title: Adobe XD APIs for developers and scripters
+description: Extend Adobe XD by creating plugins and cloud integrations
 ---
 
-<Hero slots="image, heading, icon, text" variant="halfwidth" />
+<Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-# Develop with Adobe Creative Cloud
+# Extend Adobe XD with plugins and integrations
 
-![Creative Cloud banner](images/cc-icon.png)
+![XD icon](images/icons/xd-icon.png)
 
-With Adobe Creative Cloud, developers can impact creative work for millions of users worldwide. Create inspiring, productivity-driving plugins that are fast, and easy for millions of Creative Cloud users to discover, install, and apply to their creative work. Give users and teams access to their Creative Cloud content and tools right within your own apps and services. <br /><br /> Build and distribute world-class creative tools and integrations—all with Adobe Creative Cloud.
+Adobe XD's powerful API platform lets developers and users extend XD within the app, or in the cloud. Automate complex tasks, modify and generate document contents, integrate with external services, and more. <br /><br /> Join a world-wide community of developers and power-users, and supercharge the future of design.
 
-<AnnouncementBlock slots="heading, text, button" />
-
-### Join the Creative Cloud Developer Newsletter
-
-Be the first to hear about API launches, technology updates, marketplace news, developer events, and more by joining the Creative Cloud Developer Newsletter.
-
-[Sign up today](http://adobe.ly/devnews)
-
-<TextBlock slots="image, heading, text1, links" />
-
-![Screenshot 1](images/intro1.png)
-
-## Extend Adobe Creative Cloud apps
-
-Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that let teams and users tailor these industry-leading apps to their unique creative needs and collaborative processes. [Browse the full list.](#api-list)
-
-- ![Photoshop](images/icons/ps-icon.png) [Photoshop](photoshop)
-- ![Adobe XD](images/icons/xd-icon.png) [Adobe XD](xd)
-- ![InDesign](images/icons/id-icon.png) [InDesign](https://www.adobe.io/apis/creativecloud/indesign.html)
-
-<TextBlock slots="heading, text1, links, image" />
-
-## Integrate Creative Cloud services into your apps
-
-With Creative Cloud service APIs, developers can create integrations that enable users to access their content and tools everywhere they work. Bring powerful collaborative features and rich creative assets from Adobe right into your own apps and services by integrating with Creative Cloud. [Browse the full list.](#api-list)
-
-- [Creative Cloud Libraries](libraries)
-- [Adobe Stock](https://www.adobe.io/apis/creativecloud/stock.html)
-- [Adobe Fonts](fonts)
-
-![Screenshot 1](images/intro1.png)
-
-<TextBlock slots="image, heading, text1, links" />
-
-![Screenshot 1](images/cc-desktop-marketplace-1.png)
-
-## Distribute to millions of creative users worldwide
-
-Publish plugins and integrations for users and teams to discover and install on the Creative Cloud Desktop Marketplace and the Enterprise Admin Console.
-
-- [Adobe Exchange](https://exchange.adobe.com/creativecloud.html)
+- [See what's possible](http://adobexdplatform.com)
 
 <TitleBlock slots="heading, text" theme="light" />
 
-# The Adobe Fund for Design
+### Push the boundaries of experience design with UXP Plugin APIs
 
-Since 2018, the Adobe Fund for Design has provided equity investments and grants to people and companies who want to push boundaries and help shape the future of design and creativity. Fund recipients also receive expert advice, early access to products and technology, go-to-market support, and more.
+Add new features to Adobe XD, automate workflows, connect XD to external services, create plugin UI with native controls, and more. All on UXP—Adobe's quick, modern HTML, CSS, and JavaScript engine—[available in Adobe XD](https://adobexdplatform.com/plugin-docs/).
 
-<ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-[Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
+![Overflow logo](images/overflow.png)
 
-![Adobe Fund for Design 1](images/adobe-fund-for-design-1.jpeg)
+### Overflow
 
-### Adobe Fund for Design: Investing in developers with creativity in their code
+Empowers designers to design, present, and share beautiful user flow diagrams that tell a story.
 
-Apply for equity investments and grants from Adobe for your project.
+- [Try it in XD](https://adobe.com/go/xd_plugins_discover_plugin?pluginId=232cee78)
 
-<ResourceCard slots="link, image, heading, text" width="50%" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-[Supporting Creative Cloud Developers with the Adobe Fund for Design](https://blog.adobe.com/en/publish/2020/06/15/adobe-fund-for-design-creative-cloud-developers.html#gs.iaz41v)
+![Stark logo](images/stark.png)
 
-![Adobe Fund for Design 2](images/adobe-fund-for-design-2.jpeg)
+### Stark
 
-### Supporting Creative Cloud Developers with the Adobe Fund for Design
+Helps you design and build products that are accessible, ethical, and inclusive.
 
-Commissioned projects, and our commitment to developers from underrepresented communities.
+- [Try it in XD](https://adobe.com/go/xd_plugins_discover_plugin?pluginId=6cbf275e)
 
-<ResourceCard slots="link, image, heading, text" width="50%" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-[One Year of the Adobe Fund for Design: Supporting, Uplifting and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
+![Slack logo](images/user-testing.png)
 
-![Adobe Fund for Design 3](images/adobe-fund-for-design-3.jpeg)
+### UserTesting
 
-### One Year of the Adobe Fund for Design
+On-demand human insights platform to test prototypes and get feedback from real users.
 
-Supporting, Uplifting and Empowering Innovators in the Creative Community
+- [Try it in XD](https://adobe.com/go/xd_plugins_discover_plugin?pluginId=713b61ec)
 
-<!-- Product cards -->
-<div id="api-list"></div>
 <TitleBlock slots="heading, text" theme="light" />
 
-# Extensible Creative Cloud products and services
+### Collaborate better with XD Cloud Content APIs
 
-Many creative cloud apps and services are extensible through in-app APIs and SDKs, or service APIs and events. Choose your favorite to learn more.
+With the [XD Cloud Content APIs](https://adobexdplatform.com/cloud-content-api-docs/), you can bring design work created in XD directly to your product or service.
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![CC icon](images/cc-icon.png)
+![MSFT Teams logo](images/msfteams.png)
 
-#### After Effects
+### Microsoft teams
 
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
+Easily share Creative Cloud assets and files, and get comment notifications on your prototypes.
 
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
+- [Learn more](https://www.adobe.com/creativecloud/integrations/creative-cloud-microsoft-teams.html)
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![CC icon](images/cc-icon.png)
+![JIRA Cloud logo](images/jira.png)
 
-#### Animate
+### JIRA Cloud
 
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
+Make designer to developer handoffs easy. Find the latest designs and specs and get thumbnail previews and asset info.
 
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
+- [Learn more](https://blog.adobe.com/en/publish/2019/03/12/adobe-xd-for-jira-cloud-streamline-design-to-development-workflows.html)
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![CC icon](images/cc-icon.png)
+![Slack logo](images/slack.png)
 
-#### Audition
+### Slack
 
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
+Instantly share Creative Cloud files, designs, specs, and notifications all in real time.
 
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
+- [Learn more](https://slack.com/apps/AQRRGUV24-adobe-xd)
 
-<!-- Summary block -->
+<TextBlock slots="video, icons, heading, text, buttons" theme="dark" />
+
+[Adobe XD for Jira Integration](https://www.youtube.com/watch?v=bEIbaZ8DtcY)
+
+- ![Adobe](images/adobe.png)
+- ![Microsoft](images/msft.png)
+
+### Adobe XD + Jira Software Cloud
+
+The Adobe XD and Jira Software Cloud integration uses the XD Cloud Content APIs to let designers associate XD prototypes and design specs with Jira issues. This keeps projects organized while providing developers with everything they need to know in the environment they know.
+
+- [Learn more](https://theblog.adobe.com/adobe-xd-for-jira-cloud-streamline-design-to-development-workflows/)
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
-![Creative Cloud banner](images/cc-banner.png)
+![CC banner](images/cc-banner.png)
 
 ## Get the latest news for Creative Cloud Developers
 
