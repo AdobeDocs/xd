@@ -80,14 +80,6 @@ With the [XD Cloud Content API](https://adobexdplatform.com/cloud-content-api-do
 
 <AnnouncementBlock slots="heading, text, button" theme="light" isCentered />
 
-### Integrate with XD services
-
-Learn how to get your Client ID and start building with our documentation.
-
-[Visit the XD Cloud Content API docs](https://adobexdplatform.com/cloud-content-api-docs/)
-
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
-
 ![MSFT Teams logo](images/msfteams.png)
 
 ### Microsoft teams
